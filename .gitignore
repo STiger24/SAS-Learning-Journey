@@ -1,0 +1,6 @@
+# Ignore SAS temporary files and logs
+*.log
+*.lst
+*.sas7butl
+*.sas7bcat
+*.lck
